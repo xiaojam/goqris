@@ -43,7 +43,7 @@ import (
 	"log"
 	"os"
 
-	"goqris/service" 
+	"github.com/xiaojam/goqris/service" 
 )
 
 func main() {
