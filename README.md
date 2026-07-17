@@ -26,7 +26,7 @@ To maintain the strict zero-dependency rule in our `go.mod` file, the necessary 
 To install the library, simply run the following `go get` command:
 
 ```bash
-go get https://github.com/xiaojam/goqris
+go get github.com/xiaojam/goqris
 ```
 
 ## Usage and Sample Implementation
