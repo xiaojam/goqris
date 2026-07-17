@@ -3,10 +3,10 @@ package detector
 import (
 	"math"
 
-	"goqris/gozxing"
-	"goqris/gozxing/common"
-	"goqris/gozxing/common/util"
-	"goqris/gozxing/qrcode/decoder"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/common"
+	"github.com/xiaojam/goqris/gozxing/common/util"
+	"github.com/xiaojam/goqris/gozxing/qrcode/decoder"
 )
 
 type Detector struct {

@@ -7,7 +7,7 @@ import (
 
 	errors "golang.org/x/xerrors"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 func testReedSolomonExceptionType(t testing.TB, e error) {

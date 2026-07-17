@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"testing"
 
-	"goqris/gozxing"
-	"goqris/gozxing/common"
-	"goqris/gozxing/testutil"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/common"
+	"github.com/xiaojam/goqris/gozxing/testutil"
 )
 
 func TestGridSampler_GetSetInstance(t *testing.T) {

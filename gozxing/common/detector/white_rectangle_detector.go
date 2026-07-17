@@ -1,8 +1,8 @@
 package detector
 
 import (
-	"goqris/gozxing"
-	"goqris/gozxing/common/util"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/common/util"
 )
 
 const (

@@ -1,7 +1,7 @@
 package gozxing
 
 import (
-	"goqris/gozxing/common/util"
+	"github.com/xiaojam/goqris/gozxing/common/util"
 )
 
 type ResultPoint interface {

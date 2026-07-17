@@ -3,7 +3,7 @@ package detector
 import (
 	"testing"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 func TestNewWhiteRectangleDetector(t *testing.T) {

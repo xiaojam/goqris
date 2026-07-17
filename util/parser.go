@@ -1,7 +1,7 @@
 package util
 
 import (
-	"goqris/model"
+	"github.com/xiaojam/goqris/model"
 	"strconv"
 	"strings"
 )

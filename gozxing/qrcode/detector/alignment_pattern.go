@@ -3,7 +3,7 @@ package detector
 import (
 	"math"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 type AlignmentPattern struct {

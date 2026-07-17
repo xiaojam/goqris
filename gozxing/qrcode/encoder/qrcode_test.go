@@ -3,7 +3,7 @@ package encoder
 import (
 	"testing"
 
-	"goqris/gozxing/qrcode/decoder"
+	"github.com/xiaojam/goqris/gozxing/qrcode/decoder"
 )
 
 func TestQRCode(t *testing.T) {

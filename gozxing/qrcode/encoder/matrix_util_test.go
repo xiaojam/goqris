@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"goqris/gozxing"
-	"goqris/gozxing/qrcode/decoder"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/qrcode/decoder"
 )
 
 func stringsToByteMatrix(str string) *ByteMatrix {

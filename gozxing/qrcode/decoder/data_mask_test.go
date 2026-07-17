@@ -3,7 +3,7 @@ package decoder
 import (
 	"testing"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 func testMask(t testing.TB, mask DataMask, dimension int, condition func(int, int) bool) {

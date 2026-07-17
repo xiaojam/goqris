@@ -4,7 +4,7 @@ import (
 	"math"
 	"sort"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 func TestDefaultGridSampler_SampleGrid(t *testing.T) {

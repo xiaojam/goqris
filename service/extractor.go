@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"os"
 
-	"goqris/gozxing"
-	"goqris/gozxing/qrcode"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/qrcode"
 )
 
 func ExtractFromImage(file io.Reader) (string, error) {

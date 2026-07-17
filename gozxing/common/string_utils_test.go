@@ -8,7 +8,7 @@ import (
 	"golang.org/x/text/encoding/ianaindex"
 	"golang.org/x/text/encoding/unicode"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 func TestGessEncodingWithHint(t *testing.T) {

@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"testing"
 
-	"goqris/gozxing"
-	"goqris/gozxing/common"
-	"goqris/gozxing/qrcode/decoder"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/common"
+	"github.com/xiaojam/goqris/gozxing/qrcode/decoder"
 
 	"golang.org/x/text/encoding/charmap"
 	"golang.org/x/text/encoding/japanese"

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 // formatinfo = 110100101110110 = 0x6976

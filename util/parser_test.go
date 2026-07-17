@@ -3,7 +3,7 @@ package util
 import (
 	"testing"
 
-	"goqris/model"
+	"github.com/xiaojam/goqris/model"
 )
 
 func TestParseTLV_Success(t *testing.T) {

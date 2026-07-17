@@ -1,7 +1,7 @@
 package common
 
 import (
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 
 	"golang.org/x/text/encoding"
 	"golang.org/x/text/encoding/charmap"

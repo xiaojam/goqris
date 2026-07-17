@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
-	"goqris/model"
-	"goqris/util"
+	"github.com/xiaojam/goqris/model"
+	"github.com/xiaojam/goqris/util"
 )
 
 func ProcessFromString(originalString string, nominal string) (*model.ProcessResponse, error) {

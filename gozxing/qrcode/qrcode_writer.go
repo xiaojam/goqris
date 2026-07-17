@@ -3,9 +3,9 @@ package qrcode
 import (
 	"strconv"
 
-	"goqris/gozxing"
-	"goqris/gozxing/qrcode/decoder"
-	"goqris/gozxing/qrcode/encoder"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/qrcode/decoder"
+	"github.com/xiaojam/goqris/gozxing/qrcode/encoder"
 )
 
 const (

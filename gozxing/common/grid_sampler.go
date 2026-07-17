@@ -1,7 +1,7 @@
 package common
 
 import (
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 type GridSampler interface {

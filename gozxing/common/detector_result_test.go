@@ -3,7 +3,7 @@ package common
 import (
 	"testing"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 func TestDetectorResult(t *testing.T) {

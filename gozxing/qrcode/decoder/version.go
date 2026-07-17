@@ -6,7 +6,7 @@ import (
 
 	errors "golang.org/x/xerrors"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 type Version struct {

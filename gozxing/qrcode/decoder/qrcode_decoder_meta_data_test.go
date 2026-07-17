@@ -3,7 +3,7 @@ package decoder
 import (
 	"testing"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 func TestQRCodeDecoderMetaData(t *testing.T) {

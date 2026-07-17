@@ -3,10 +3,10 @@ package qrcode
 import (
 	"testing"
 
-	"goqris/gozxing"
-	"goqris/gozxing/qrcode/decoder"
-	"goqris/gozxing/qrcode/detector"
-	"goqris/gozxing/qrcode/encoder"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/qrcode/decoder"
+	"github.com/xiaojam/goqris/gozxing/qrcode/detector"
+	"github.com/xiaojam/goqris/gozxing/qrcode/encoder"
 )
 
 func TestQRCodeWriter_renderResult(t *testing.T) {

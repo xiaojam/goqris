@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"goqris/gozxing"
-	"goqris/gozxing/common"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/common"
 )
 
 func TestDecodedBitStreamParsser_parseECIValue(t *testing.T) {

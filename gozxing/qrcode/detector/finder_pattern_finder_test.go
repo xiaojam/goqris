@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing"
 )
 
 func makePattern(image *gozxing.BitMatrix, x, y, m int) {

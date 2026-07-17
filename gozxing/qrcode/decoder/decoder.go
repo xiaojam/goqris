@@ -1,9 +1,9 @@
 package decoder
 
 import (
-	"goqris/gozxing"
-	"goqris/gozxing/common"
-	"goqris/gozxing/common/reedsolomon"
+	"github.com/xiaojam/goqris/gozxing"
+	"github.com/xiaojam/goqris/gozxing/common"
+	"github.com/xiaojam/goqris/gozxing/common/reedsolomon"
 )
 
 type Decoder struct {

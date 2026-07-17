@@ -1,4 +1,4 @@
-module goqris
+module github.com/xiaojam/goqris
 
 go 1.25.0
 
